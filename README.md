@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anikesh Jain</h1>
-<h3 align="center">💻 Passionate Web Developer | 🎮 Gamer at Heart | 🎨 Creative Graphic Designer
-I’m a dedicated and enthusiastic web developer with a strong passion for creating clean, functional, and visually appealing websites. Alongside coding, I enjoy exploring the world of gaming, which fuels my creativity and problem-solving skills. With a solid background in graphic design, I bring ideas to life through unique visuals and engaging digital experiences.</h3>
+<h3 align="center">💻 Passionate Web Developer | 🎮 Gamer at Heart | 🎨 Creative Graphic Designer </h3>
+<h4 align="center">I’m a dedicated and enthusiastic web developer with a strong passion for creating clean, functional, and visually appealing websites. Alongside coding, I enjoy exploring the world of gaming, which fuels my creativity and problem-solving skills. With a solid background in graphic design, I bring ideas to life through unique visuals and engaging digital experiences.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikeshjainxtech&label=Profile%20views&color=0e75b6&style=flat" alt="anikeshjainxtech" /> </p>
 
