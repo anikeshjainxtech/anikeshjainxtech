@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikeshjainxtech&" alt="anikeshjainxtech" /></p>
 
+![snake gif](https://github.com/anikeshjainxtech/anikeshjainxtech/blob/output/github-contribution-grid-snake.svg)
